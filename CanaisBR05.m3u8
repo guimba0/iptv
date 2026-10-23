@@ -160,9 +160,6 @@ http://45.185.11.126:8000/play/a07t/index.m3u8
 #EXTINF:0,Paramount+ 4
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0aq/index.m3u8
-#EXTINF:0,Playboy TV HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a09n/index.m3u8
 #EXTINF:0,Premiere 2 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06h/index.m3u8
